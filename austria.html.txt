@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML</title>
+</head>
+<p style="background-image: url('img_girl.jpg');">
+<body style="background-color: #FFCCFF;"></body>
+<div style="text-align:center;"><h1><BIG><span style='color:94 00 D3'>AUSTRIA</span><BIG><h1></div>
+<HR align="center" width="100%" size="10" color="purple">
+<P ALIGN = CENTER><img src='eiffel-tower-5673391_1280.jpg' alt='Zambeste' width='900' height='792'/><P>
+<style>
+body {
+ color:Purple;
+}
+</style>
+
+
+</html>
